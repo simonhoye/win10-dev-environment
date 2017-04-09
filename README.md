@@ -78,6 +78,12 @@ npm install -g npm-windows-upgrade
 npm-windows-upgrade
 ```
 
+### Yarn
+Yarn looks to be a more reliable and secure package manager than npm
+```
+npm install -g yarn
+```
+
 #### Version Control: Git
 Obviously. If you want Git to be able to save credentials (so you don't have to enter SSH keys / passwords every single time you do anything), also install the Git Credential Manager for Windows.
 
