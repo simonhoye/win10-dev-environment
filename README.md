@@ -13,6 +13,7 @@
  * [Bash Tools](#bash-tools-wget-curl-etc-gow)
  * [Node.js](#node)
  * [npm](#npm)
+ * [yarn](#yarn)
  * [Git](#git)
  * [Atom, Sublime, VS Code](#code-editors-atom-sublime-vs-code)
  * [Ruby](#ruby)
@@ -78,7 +79,7 @@ npm install -g npm-windows-upgrade
 npm-windows-upgrade
 ```
 
-### Yarn
+#### Yarn
 Yarn looks to be a more reliable and secure package manager than npm
 ```
 npm install -g yarn
